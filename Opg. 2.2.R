@@ -54,3 +54,4 @@ ggplot(top3_df, aes(x = reorder(Spørgsmål, abs(Loading)), y = abs(Loading))) +
     plot.subtitle = element_text(hjust = 0.5, color = "gray40"),
     axis.text.y = element_text(size = 10)
   )
+

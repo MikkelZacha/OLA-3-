@@ -108,3 +108,4 @@ komb_plot_df %>%
     y = "Andel af alle kombinationer"
   ) +
   theme_minimal(base_size = 13)
+
